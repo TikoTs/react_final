@@ -21,7 +21,7 @@ This project is built using:
 - **Next.js** @13.4 - React framework for server-side rendering and static site generation  
 
 ## Screenshot
-![Project Screenshot](readme/screen.png)
+![Project Screenshot](final-portfolio-main/readme/screen.png)
 
 ## Getting Started
 Follow these steps to set up the project locally:
