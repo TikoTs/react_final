@@ -1,0 +1,126 @@
+{
+    "about": [
+        {
+            "first": "Birthday:", 
+            "second": "6 Nov 2003"
+        },
+        {
+            "first": "Phone:", 
+            "second": "+995 591 93 98 12"
+        },
+        {
+            "first": "City:", 
+            "second": "Tbilisi, Georgia"
+        },
+        {
+            "first": "Age:", 
+            "second": "21"
+        },
+        {
+            "first": "Degree:", 
+            "second": "Bachelor"
+        },
+        {
+            "first": "Email:", 
+            "second": "tiko.tsakadze2018@gmail.com"
+        },
+        {
+            "first": "Freelance:", 
+            "second": "Available"
+        }
+
+    ],
+    "about-text": {
+        "sum": "I work as a Test Automation Engineer, utilizing Java along with tools such as Selenium and TestNG. I also use Appium and Apache JMeter to ensure software quality. Since the first semester of university, I have been interested in Python and have used Django, Flask, BeautifulSoup (for web scraping), NumPy, and worked with relational databases. I have also completed the TBC X USAID Advanced Python course. Additionally, I have experience with React, JavaScript, and TypeScript, and I enjoy incorporating design elements into my work. I am currently a student at Business and Technology University (BTU), where I continue to expand my technical expertise and stay updated with industry trends."
+    },
+    "skills": [
+        {
+            "src": "./images/skills/Python-log.svg.png",
+            "skill": "Python"
+        },
+        {
+            "src": "./images/skills/java-logo.png",
+            "skill": "Java"
+        },
+        {
+            "src": "./images/skills/selenium.png",
+            "skill": "Selenium"
+        },
+        {
+            "src": "./images/skills/Apache_JMeter.png",
+            "skill": "Apache JMeter"
+        },
+        {
+            "src": "./images/skills/django.png",
+            "skill": "Django"
+        },
+        {
+            "src": "./images/skills/js.png",
+            "skill": "JavaScript"
+        },
+        {
+            "src": "./images/skills/typescript.png",
+            "skill": "TypeScript"
+        },
+        {
+            "src": "./images/skills/react.png",
+            "skill": "React.js"
+        },
+        {
+            "src": "./images/skills/git.png",
+            "skill": "Git"
+        },
+        {
+            "src": "./images/skills/api.png",
+            "skill": "Rest API"
+        },
+        {
+            "src": "./images/skills/react.png",
+            "skill": "React Native"
+        }
+    ],
+    "projects": [
+        {
+            "title": "JS",
+            "screens": ["./images/works/todo.png"],
+            "projName": ["Todo App"],
+            "link": [
+                {
+                    "github": "https://github.com/TikoTs/todo.git"
+                }
+            ]
+        },
+        {
+            "title": "Django",
+            "screens": ["./images/works/django_project.png"],
+            "projName": ["Library Management System"],
+            "link": [
+                {
+                    "github": "https://github.com/TikoTs/library_management_system_final.git"
+                }
+            ]
+        }
+    ],
+    "contact": [
+        {
+            "icon" : "./images/share.svg",
+            "title": "Social Profiles",
+            "info" : ["./images/links/facebook.svg", "./images/links/instagram.svg", "./images/links/linkedin2.png", "./images/links/github.png"],
+            "link" : ["https://www.facebook.com/tikitiko.tsakadze", "https://www.instagram.com/tiko_tsakadze/", "https://www.linkedin.com/in/tinatin-tsakadze-ba1215226/", "https://github.com/TikoTs"]
+
+        },
+        {
+            "icon" : "./images/email.png",
+            "title": "Email Me",
+            "info" : ["tiko.tsakadze2018@gmail.com"],
+            "link" : [""]
+        },
+        {
+            "icon" : "./images/phone.png",
+            "title": "Call me",
+            "info" : ["+995 591 93 98 12"],
+            "link" : [""]
+        }
+
+    ]
+}
